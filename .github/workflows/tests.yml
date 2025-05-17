@@ -14,5 +14,5 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 21.x
-      - name: Install Deps
-        run: npm install
+      - name: Install Build
+        run: npm run render-build
