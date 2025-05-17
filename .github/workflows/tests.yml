@@ -16,5 +16,8 @@ jobs:
           node-version: 21.x
       - name: Install Build
         run: npm run render-build
+<<<<<<< HEAD
       - name: Test
         run: npm run test-gui
+=======
+>>>>>>> bf2debbaaba5f57dc6892c2e146e2f531d91d7bb
