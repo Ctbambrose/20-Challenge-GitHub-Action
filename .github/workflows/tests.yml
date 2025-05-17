@@ -2,7 +2,7 @@ name: techquiz
 on:
   pull_request:
     branches:
-      - develop
+      - Develop
       - staging
 jobs:
   test:
