@@ -11,9 +11,13 @@ No installation is needed
 
 The application is a coding quiz, so you just click Start Quiz and answer the questions. The real part of the activity is checking in this repo's actions tab to see the successful running of the test for pull request on develop and main.
 
+*This is a screenshot of the successful run of the Development branch automation.*
+![Screenshot of the Development Automation](./assets/DevelopScreenShot.png)
 
-![Screenshot of the application](./src/assets/Portfolio.png)
+*This is a screenshot of the successful run of the Main branch automation.*
+![Screenshot of the Development Automation](./assets/MainScreenShot.png)
 
+*This is a screenshot of the successful run of the automation in Render.*
+![Screenshot of the Development Automation](./assets/RenderScreenShot.png)
 
-
-[Link to App]([./src/assets/Portfolio.png](https://coltonambroseportfolio.netlify.app/))
+[Link to App](https://ctbagithubactions.onrender.com)
